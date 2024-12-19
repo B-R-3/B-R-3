@@ -1,7 +1,8 @@
 - 👋 Hi, je suis @B-R-3
 - 👀 Je m'interesse à l'informatique, la moto et les défis...
-- 💞️ Je cherche à collaborer sur des projets fun à réaliser
+- 🎓 Je cherche à collaborer sur des projets fun à réaliser
 - 📫 Comment me contacter ?  email: brandon.molina003@gmail.com
+- 🏍️ En savoir plus ? Portfolio: https://brandonmolina.fr/
   
 
 <!---
